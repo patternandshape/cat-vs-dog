@@ -23,4 +23,8 @@ $(document).ready(function() {
 });
 });
 });
-  });
+
+$("button#invert").click(function() {
+  $("body").toggleClass("invert-background-text");
+});
+});
