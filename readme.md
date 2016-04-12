@@ -1,20 +1,24 @@
 # Cats vs. Dogs
 
-#### This is a webpage about cats and dogs, January 12, 2016.
+January 12, 2016
 
-#### By Polina Nenchev and Molly Curtin
+##### By Molly Curtin &amp; Polina Nenchev
 
-## Description
+### Description
+
 This webpage will demonstrate DOM manipulation and traversal through clicking on cats and dogs.
 
-#### Technology used:
-* Atom
-* Terminal
+
+##### Technologies Used
+
 * HTML
 * CSS
-* Javascript
-* Bootstrap
-* DOM manipulation of elements
+* JavaScript
+* jQuery
+* Git
 
-#### License:
-Copyright (c) 2016 ** Polina Nenchev and Molly Curtin
+##### License
+
+*This software is licensed under the MIT license.*
+
+&copy;2016 **Molly Curtin &amp; Polina Nenchev**
